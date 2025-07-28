@@ -1,0 +1,14 @@
+D:\New folder\FULLSTACK_WEB_DEVELOPMENT\BACKEND\.NET\Guided project\stater\bin\Debug\net9.0\stater.exe
+D:\New folder\FULLSTACK_WEB_DEVELOPMENT\BACKEND\.NET\Guided project\stater\bin\Debug\net9.0\stater.deps.json
+D:\New folder\FULLSTACK_WEB_DEVELOPMENT\BACKEND\.NET\Guided project\stater\bin\Debug\net9.0\stater.runtimeconfig.json
+D:\New folder\FULLSTACK_WEB_DEVELOPMENT\BACKEND\.NET\Guided project\stater\bin\Debug\net9.0\stater.dll
+D:\New folder\FULLSTACK_WEB_DEVELOPMENT\BACKEND\.NET\Guided project\stater\bin\Debug\net9.0\stater.pdb
+D:\New folder\FULLSTACK_WEB_DEVELOPMENT\BACKEND\.NET\Guided project\stater\obj\Debug\net9.0\stater.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\FULLSTACK_WEB_DEVELOPMENT\BACKEND\.NET\Guided project\stater\obj\Debug\net9.0\stater.AssemblyInfoInputs.cache
+D:\New folder\FULLSTACK_WEB_DEVELOPMENT\BACKEND\.NET\Guided project\stater\obj\Debug\net9.0\stater.AssemblyInfo.cs
+D:\New folder\FULLSTACK_WEB_DEVELOPMENT\BACKEND\.NET\Guided project\stater\obj\Debug\net9.0\stater.csproj.CoreCompileInputs.cache
+D:\New folder\FULLSTACK_WEB_DEVELOPMENT\BACKEND\.NET\Guided project\stater\obj\Debug\net9.0\stater.dll
+D:\New folder\FULLSTACK_WEB_DEVELOPMENT\BACKEND\.NET\Guided project\stater\obj\Debug\net9.0\refint\stater.dll
+D:\New folder\FULLSTACK_WEB_DEVELOPMENT\BACKEND\.NET\Guided project\stater\obj\Debug\net9.0\stater.pdb
+D:\New folder\FULLSTACK_WEB_DEVELOPMENT\BACKEND\.NET\Guided project\stater\obj\Debug\net9.0\stater.genruntimeconfig.cache
+D:\New folder\FULLSTACK_WEB_DEVELOPMENT\BACKEND\.NET\Guided project\stater\obj\Debug\net9.0\ref\stater.dll
