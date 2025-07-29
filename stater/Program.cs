@@ -1,6 +1,6 @@
 ﻿
 // initialize variables - graded assignments 
-int currentAssignments = 5;
+int examAssignments = 5;
 
 int[] sophiaScores = new int[] { 90, 86, 87, 98, 100, 94, 90 };
 int[] andrewScores = new int[] { 92, 89, 81, 96, 90, 89 };
@@ -48,11 +48,17 @@ foreach (string name in studentNames)
         // increment the assignment counter
         gradedAssignments += 1;
 
-        // add the exam score to the sum
-        sumAssignmentScores += score;
+        if (gradedAssignments <= examAssignments)
+            // add the exam score to the sum
+            sumAssignmentScores += score;
+
+        else
+            // add the extra credit points to the sum - bonus points equal to 10% of an exam score
+            sumAssignmentScores += score / 10;
+
     }
 
-    currentStudentGrade = (decimal)sumAssignmentScores / currentAssignments;
+    currentStudentGrade = (decimal)sumAssignmentScores / examAssignments;
 
 
     if (currentStudentGrade >= 97)
