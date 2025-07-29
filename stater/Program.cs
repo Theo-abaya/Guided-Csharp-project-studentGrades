@@ -39,8 +39,15 @@ foreach (string name in studentNames)
     // initialize/reset the calculated average of exam + extra credit scores
     decimal currentStudentGrade = 0;
 
+    // initialize/reset a counter for the number of assignments
+    int gradedAssignments = 0;
+
+
     foreach (int score in studentScores)
     {
+        // increment the assignment counter
+        gradedAssignments += 1;
+
         // add the exam score to the sum
         sumAssignmentScores += score;
     }
