@@ -12,3 +12,4 @@ D:\New folder\FULLSTACK_WEB_DEVELOPMENT\BACKEND\.NET\Guided project\stater\obj\D
 D:\New folder\FULLSTACK_WEB_DEVELOPMENT\BACKEND\.NET\Guided project\stater\obj\Debug\net9.0\stater.pdb
 D:\New folder\FULLSTACK_WEB_DEVELOPMENT\BACKEND\.NET\Guided project\stater\obj\Debug\net9.0\stater.genruntimeconfig.cache
 D:\New folder\FULLSTACK_WEB_DEVELOPMENT\BACKEND\.NET\Guided project\stater\obj\Debug\net9.0\ref\stater.dll
+D:\New folder\FULLSTACK_WEB_DEVELOPMENT\BACKEND\.NET\Guided project\stater\obj\Debug\net9.0\stater.sourcelink.json
